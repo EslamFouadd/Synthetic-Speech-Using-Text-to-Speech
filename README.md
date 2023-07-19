@@ -1,5 +1,8 @@
 # Synthetic-Speech-Using-Text-to-Speech
 
+![Cloud Text](https://github.com/EslamFouadd/Synthetic-Speech-Using-Text-to-Speech/assets/77150715/ac08d595-7f18-4ca9-add8-2c4a567fa00f)
+
+
 ## In this lab you use the Text-to-Speech API to do the following:
 
 1. Create a series of audio files
